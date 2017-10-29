@@ -1,6 +1,6 @@
 ---
 layout: default
-section: education
+subpage: education
 description: Education History
 
 ---
