@@ -2,7 +2,9 @@
 layout: default
 description: Education History
 section: education
+
 ---
+
 <!-- Undergrad -->
 ## 2014 - 2017 ([Georgia Institute of Technology](http://www.gatech.edu/about))
 > **Major**: Computer Engineering  

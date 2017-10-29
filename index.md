@@ -1,7 +1,9 @@
 ---
 layout: default
-section: home
+subpage: home
+
 ---
+
 <div>
   <img style="float: left; margin: 0 18px" width="150" src="{{ 'assets/images/me.jpg' | relative_url }}"/>
   <p>I am a fourth year Computer Engineering student (with a CS minor) at the Georgia Institute of Technology</p>

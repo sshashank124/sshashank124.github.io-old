@@ -23,10 +23,10 @@
     </div>
     <div id="navbar">
       <nav>
-        <li><a {% if page.section == 'home' %}class="current" {% endif %}href="/">Home</a></li>
-        <li><a {% if page.section == 'education' %}class="current" {% endif %}href="/education">Education</a></li>
-        <li><a {% if page.section == 'projects' %}class="current" {% endif %}href="/projects">Projects</a></li>
-        <li><a {% if page.section == 'work' %}class="current" {% endif %}href="/work">Work</a></li>
+        <li><a {% if page.subpage == 'home' %}class="current" {% endif %}href="/">Home</a></li>
+        <li><a {% if page.subpage == 'education' %}class="current" {% endif %}href="/education">Education</a></li>
+        <li><a {% if page.subpage == 'projects' %}class="current" {% endif %}href="/projects">Projects</a></li>
+        <li><a {% if page.subpage == 'work' %}class="current" {% endif %}href="/work">Work</a></li>
         <li><a href="/assets/pdfs/resume.pdf">Resume</a></li>
       </nav>
     </div>
