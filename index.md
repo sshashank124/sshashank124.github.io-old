@@ -1,0 +1,11 @@
+---
+layout: default
+section: home
+---
+<div>
+  <img style="float: left; margin: 0 18px" width="150" src="{{ 'assets/images/me.jpg' | relative_url }}"/>
+  <p>I am a fourth year Computer Engineering student (with a CS minor) at the Georgia Institute of Technology</p>
+  <p>My interests (in no particular order) include Machine Learning, Deep Learning, Networking and Security, Speedcubing, Mobile App Design, and Linux</p>
+  <p>This site is a collection of all the projects that I have worked on, my work experience, and my education history and skills</p>
+</div>
+<span style="clear: both"></span>

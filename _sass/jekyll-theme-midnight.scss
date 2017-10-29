@@ -56,10 +56,7 @@ a {
 }
 
 a small {
-  font-size:11px;
-  color:#666;
-  margin-top:-0.6em;
-  display:block;
+  font-size: 75%;
 }
 
 em {
@@ -124,26 +121,6 @@ pre {
   }
 }
 
-table {
-  width:100%;
-  border-collapse:collapse;
-}
-
-th {
-  text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #434343;
-  color: #b6b6b6;
-  font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  font-weight: normal;
-}
-
-td {
-  text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #434343;
-}
-
 hr {
   border: 0;
   outline: none;
@@ -151,12 +128,15 @@ hr {
   background: transparent url('../images/hr.gif') center center repeat-x;
 }
 
+br {
+  line-height: 2em;
+}
+
 dt {
   color:#F0E7D5;
   font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
 }
-
 
 #header {
   width: 100%;
