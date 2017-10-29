@@ -1,10 +1,11 @@
 ---
 layout: default
-description: Work Experience
 subpage: work
+description: Work Experience
 
 ---
 
+<!-- Work Experience -->
 ## Android Development Intern (R&D) at VMware AirWatch [<small>[Link ↗]</small>](https://www.vmware.com/products/airwatch-enterprise-mobility-management.html)
 > **Technologies**: *Android* (Device OEM APIs), Stash, JIRA, Bamboo, Confluence, Agile
 >

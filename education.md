@@ -1,7 +1,7 @@
 ---
 layout: default
-description: Education History
 section: education
+description: Education History
 
 ---
 

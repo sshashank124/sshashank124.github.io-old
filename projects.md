@@ -1,10 +1,11 @@
 ---
 layout: default
-description: "Projects I have worked on"
 subpage: projects
+description: Projects I have worked on
 
 ---
 
+<!-- Projects -->
 ## EnerCage [<small>[Link ↗]</small>](http://www.vip.gatech.edu/teams/enercage)
 > **Technologies**: *Python* (OpenCV2, Tensorflow/Keras, numpy/scikit, pybluez), *Java* (JavaFX), *C/C++* (libbluetooth, pthread, socket), Raspberry Pi, Microsoft Kinect 1 & 2
 >
