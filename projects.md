@@ -6,12 +6,14 @@ description: Projects I have worked on
 ---
 
 <!-- Projects -->
-## EnerCage [<small>[Link ↗]</small>](http://www.vip.gatech.edu/teams/enercage)
+## EnerCage Research [<small>[Link ↗]</small>](http://www.vip.gatech.edu/teams/enercage)
 > **Technologies**: *Python* (OpenCV2, Tensorflow/Keras, numpy/scikit, pybluez), *Java* (JavaFX), *C/C++* (libbluetooth, pthread, socket), Raspberry Pi, Microsoft Kinect 1 & 2
 >
 > ***January 2016 - Current***
+>
+> Received Warren-Batts VIP Innovation Award for significant contribution towards the team upon nomination by my research advisor.
 
-I have been an active member of the EnerCage Research Project at Georgia Tech under the Image Processing and Microcontrollers subteams.
+I have been an active member of the EnerCage VIP Research Project at Georgia Tech under the Image Processing and Microcontrollers subteams.
 
 Under the Image Processing subteam, I am currently working on training Deep Learning Convolutional Neural Network models to accurately predict and classify a lab rat's behavior from a color video and depth top-down feed. This is done in combination with various preprocessing steps to represent the data in different formats before feeding them into the training models.
 

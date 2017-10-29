@@ -6,7 +6,7 @@ description: Education History
 ---
 
 <!-- Undergrad -->
-## 2014 - 2017 ([Georgia Institute of Technology](http://www.gatech.edu/about))
+## 2014 - 2017 ([Georgia Institute of Technology ↗](http://www.gatech.edu/about))
 > **Major**: Computer Engineering  
 > **Minor**: Computer Science  
 > **GPA**: 3.82
@@ -70,7 +70,7 @@ description: Education History
 * * *
 
 <!-- High School -->
-## 2010 - 2014 ([International School of Kuala Lumpur](http://www.iskl.edu.my))
+## 2010 - 2014 ([International School of Kuala Lumpur ↗](http://www.iskl.edu.my))
 > **IB Diploma Score**: 42  
 > **HS Diploma GPA**: 3.87
 

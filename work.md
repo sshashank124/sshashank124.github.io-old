@@ -15,9 +15,22 @@ I interned at AirWatch on the Android Agent App Development team. My primary pro
 
 * * *
 
-## Teaching Assistant for Data Structures and Algorithms (CS 1332) and Object-Oriented Programming (CS 1332)
+## Teaching Assistant for Data Structures and Algorithms (CS 1332) and Object-Oriented Programming (CS 1331)
 > **Technologies**: *Java* (1.8, JavaFX, JUnit4)
 >
 > ***January 2016 - May 2017***
 
 I was a TA for the two CS courses. My responsibilities included writing homework assignments, preparing for and conduction weekly recitations, grading homeworks/tests, and holding office hours.
+
+* * *
+
+## Tutor for Digital Design (ECE 2020) and Programming Hardware/Software Systems (ECE 2035, 2036)
+> **Technologies**: *C/C++* (MIPS ISA)
+>
+> ***January 2016 - May 2017***
+
+Tutored multiple ECE courses and aided students with lab assignments and grading. Course materials included:
+* MIPS ISA
+* C memory management
+* C++ STL
+* Digital Design Logic
