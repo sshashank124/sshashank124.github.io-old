@@ -73,6 +73,8 @@ description: Education History
 ## 2010 - 2014 ([International School of Kuala Lumpur ↗](http://www.iskl.edu.my))
 > **IB Diploma Score**: 42  
 > **HS Diploma GPA**: 3.87
+>
+> Received Book Award for Mathematics (given to one student in all the High School as chosen by a committee of HS Math Teachers)
 
 * Mathematics (*Higher Level*)
 * Physics (*Higher Level*)

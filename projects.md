@@ -64,6 +64,17 @@ Created and published an elegant and resourceful Rubik's Cube app for Android. T
 
 Created a web app aimed at faculty and students at my highschool (ISKL) to allow for easy scheduling/unscheduling of recurring events based on our school's custom calendar which follows an 8-day cycle. Has been used by over 50 different people to schedule 23,500+ events.
 
+
+* * *
+
+## Google Games 2017
+> **Technologies**: *Python*
+>
+> ***Spring 2017***
+>
+> Received 1st place in the competition from over 20 teams
+
+My team of five and I participated in the Google Games Competition in Atlanta which involved various programming, analytical, and puzzle solving challenges.
 * * *
 
 ## Shake2Meet
