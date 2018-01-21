@@ -9,7 +9,7 @@ description: Education History
 ## 2014 - 2017 ([Georgia Institute of Technology ↗](http://www.gatech.edu/about))
 > **Major**: Computer Engineering  
 > **Minor**: Computer Science  
-> **GPA**: 3.82
+> **GPA**: 3.76
 
 ### **Fall 2017**
 * Senior Design 2 (*ECE 4012*)

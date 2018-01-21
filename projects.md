@@ -9,13 +9,13 @@ description: Projects I have worked on
 ## EnerCage Research [<small>[Link ↗]</small>](http://www.vip.gatech.edu/teams/enercage)
 > **Technologies**: *Python* (OpenCV2, Tensorflow/Keras, numpy/scikit, pybluez), *Java* (JavaFX), *C/C++* (libbluetooth, pthread, socket), Raspberry Pi, Microsoft Kinect 1 & 2
 >
-> ***January 2016 - Current***
+> ***January 2016 - December 2017***
 >
 > Received Warren-Batts VIP Innovation Award for significant contribution towards the team upon nomination by my research advisor.
 
-I have been an active member of the EnerCage VIP Research Project at Georgia Tech under the Image Processing and Microcontrollers subteams.
+I was a member of the EnerCage VIP Research Project at Georgia Tech under the Image Processing and Microcontrollers subteams.
 
-Under the Image Processing subteam, I am currently working on training Deep Learning Convolutional Neural Network models to accurately predict and classify a lab rat's behavior from a color video and depth top-down feed. This is done in combination with various preprocessing steps to represent the data in different formats before feeding them into the training models.
+Under the Image Processing subteam, I worked on training Deep Learning Convolutional Neural Network models to accurately predict and classify a lab rat's behavior from a color video and depth top-down feed. This is done in combination with various preprocessing steps to represent the data in different formats before feeding them into the training models.
 
 Under the Microcontroller subteam, I worked with the Raspberry Pi to establish a hub between a rat-mounted microchip and a researcher's computer using Bluetooth and TCP connections respectively. I also helped design the GUI for interfacing with the Raspberry Pi Hub that would be used by the researchers on their desktops as well as implement the functionality to connect and log data from multiple hubs simultaneously.
 
@@ -35,9 +35,9 @@ I was responsible for linking the CANBUS network of the car and programming the 
 ## Energy Jackets [<small>[Link ↗]</small>](https://energy-jackets.herokuapp.com/aboutus.html)
 > **Technologies**: *Python* (Django, PostgreSQL), *HTML/CSS*, *Heroku*, Raspberry Pi, Analog Design (200A CT Sensors, MCP 3008)
 >
-> ***January 2015 - Current***
+> ***January 2015 - December 2017***
 
-I am a member of an independent, multi-disciplinary team of students who hosted our first energy savings competition in one of the on-campus freshmen housing buildings. We designed our own monitoring system to collect live energy usage data from each of the floors in the building and log it to a remote database. We then provided statistics updated daily on the energy usage and comparative reduction for each of the floors through the competition website with the intent of
+I served as a member of an independent, multi-disciplinary team of students who hosted our first energy savings competition in one of the on-campus freshmen housing buildings. Our project won funding from the Greenovation 2017 Fund at Georgia Tech. We designed our own monitoring system to collect live energy usage data from each of the floors in the building and log it to a remote database. We then provided statistics updated daily on the energy usage and comparative reduction for each of the floors through the competition website with the intent of
 fostering constructive competition and to raise awareness with regards to energy conservation.
 
 * * *

@@ -6,8 +6,8 @@ subpage: home
 
 <div>
   <img style="float: left; margin: 0 18px" width="150" src="{{ 'assets/images/me.jpg' | relative_url }}"/>
-  <p>I am a fourth year Computer Engineering student (along with an additional CS minor) at the Georgia Institute of Technology. I will be graduating at the end of this semester in December 2017</p>
-  <p>My interests (in no particular order) include Machine Learning, Deep Learning, Networking and Security, Speedcubing, Mobile App Design, and Linux</p>
+  <p>I recently graduated with a Bachelor of Science in Computer Engineering (along with an additional CS minor) from the Georgia Institute of Technology</p>
+  <p>My interests include Machine Learning, Deep Learning, Cryptocurrency, Networking and Security, Mobile App Design, and Linux</p>
   <p>This site is a collection of all the projects that I have worked on, my work experience, and my education history and skills</p>
 </div>
 <span style="clear: both"></span>
