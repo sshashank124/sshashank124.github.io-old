@@ -10,6 +10,8 @@ description: Education History
 > **Major**: Computer Engineering  
 > **Minor**: Computer Science  
 > **GPA**: 3.76
+>
+> Graduated with **Highest Honors**
 
 ### **Fall 2017**
 * Senior Design 2 (*ECE 4012*)

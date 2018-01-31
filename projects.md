@@ -25,6 +25,8 @@ Under the Microcontroller subteam, I worked with the Raspberry Pi to establish a
 > **Technologies**: *C/C++* (Arduino, Raspberry Pi, CANBUS, libbluetooth), *Android* (Bluetooth)
 >
 > ***August 2015 - June 2016***
+>
+> Ranked 6th in the competition from 40 universities
 
 I was a member of the Georgia Tech HyTech Racing team where we design a single-seat Electric Vehicle to compete against teams from up to 40 other universities at the Formula Hybrid competition and FSAE Electric.
 
@@ -75,6 +77,18 @@ Created a web app aimed at faculty and students at my highschool (ISKL) to allow
 > Received 1st place in the competition from over 20 teams
 
 My team of five and I participated in the Google Games Competition in Atlanta which involved various programming, analytical, and puzzle solving challenges.
+
+* * *
+
+## Freshmen Hackathon 2015
+> **Technologies**: *Python*
+>
+> ***Spring 2015***
+>
+> Ranked 3rd in the competition from over 100 participants
+
+I participated in the Freshmen Hackathon which tested problem solving skills using programming.
+
 * * *
 
 ## Shake2Meet
