@@ -1,7 +1,7 @@
 ---
 layout: default
-subpage: contact
-description: Contact Information and Profiles
+subpage: profiles
+description: Profiles and Contact Information
 
 ---
 
