@@ -34,7 +34,7 @@ I was responsible for linking the CANBUS network of the car and programming the 
 
 * * *
 
-## Energy Jackets [<small>[Link ↗]</small>](https://energy-jackets.herokuapp.com/aboutus.html)
+## Energy Jackets [<small>[Link ↗]</small>](https://sustain.gatech.edu/blog/turn-down-watt-greenovation-competition-winning-idea)
 > **Technologies**: *Python* (Django, PostgreSQL), *HTML/CSS*, *Heroku*, Raspberry Pi, Analog Design (200A CT Sensors, MCP 3008)
 >
 > ***January 2015 - December 2017***
@@ -44,7 +44,7 @@ fostering constructive competition and to raise awareness with regards to energy
 
 * * *
 
-## Cube Companion [<small>[Link ↗]</small>](https://play.google.com/store/apps/details?id=com.qbix.cubecompanion) [<small>[Source ↗]</small>](https://github.com/sshashank124/CubeCompanion)
+## Cube Companion [<small>[Link ↗]</small>](https://play.google.com/store/apps/details?id=com.qbix.cubecompanion) [<small>[Source ↗]</small>](https://github.com/sshashank124/cube-companion)
 > **Technologies**: *Android* (Picasso, SQLite3, GraphView), *Adobe Illustrator*
 >
 > ***July 2015 - August 2015***
@@ -59,7 +59,7 @@ Created and published an elegant and resourceful Rubik's Cube app for Android. T
 
 * * *
 
-## Block Scheduler [<small>[Link ↗]</small>](http://block-scheduler.appspot.com/) [<small>[Source ↗]</small>](https://github.com/sshashank124/block_scheduler)
+## Block Scheduler [<small>[Link ↗]</small>](http://block-scheduler.appspot.com/) [<small>[Source ↗]</small>](https://github.com/sshashank124/block-scheduler)
 > **Technologies**: *Python* (Google App Engine, Google Calendar API), *HTML/CSS*
 >
 > ***December 2013 - August 2014***
